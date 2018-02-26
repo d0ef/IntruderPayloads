@@ -1,3 +1,6 @@
+一大堆英文我也看不懂什么意思。就是字典就对了。
+
+
 # IntruderPayloads
 A collection of Burpsuite Intruder payloads and fuzz lists and pentesting methodology. To pull down all 3rd party repos, run install.sh in the same directory of the IntruderPayloads folder.
 
